@@ -70,6 +70,16 @@ Drop `7z.exe` beside the resulting executable to make compression mode self-cont
   working on first.
 - The target must be NTFS or exFAT for junctions to behave; FAT32 has no symlink support.
 
+---
+
+## Bahasa Indonesia
+
+**Storage Optimizer Pro — Batch** adalah aplikasi desktop Windows untuk drive sistem yang hampir penuh: folder besar dipindahkan ke disk USB eksternal, lalu ditinggalkan symbolic link di lokasi aslinya sehingga aplikasi tetap berjalan dari path yang sama.
+
+Mode batch memproses beberapa folder sekaligus, dengan peringatan sebelum pemindahan dan catatan prasyarat yang jelas.
+
+---
+
 ## License
 
 MIT
